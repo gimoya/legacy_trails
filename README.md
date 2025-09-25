@@ -1,9 +1,10 @@
-# Legacy Trails - Repository Moved
+# ⚠️⚠️ Legacy Trails - Repository Moved ⚠️⚠️
 
-## ⚠️ This repository has been moved!
+## This repository has been moved!
 
-The Legacy Trails project has been integrated into the main **webmaps** repository and is now hosted at:
+# The Legacy Trails project has been integrated into my main **webmaps** repository!
 
+**📂 New place at:** https://tiroltrailhead.com/webmaps/ with other web maps 👋  
 **🌐 New URL:** https://tiroltrailhead.com/webmaps/legacy_trails/
 
 ## What happened?
@@ -12,29 +13,10 @@ The Legacy Trails project has been integrated into the main **webmaps** reposito
 - The old URL `tiroltrailhead.com/legacy_trails` now redirects to `tiroltrailhead.com/webmaps`
 - All trail data and functionality remains the same, just in a new location
 
-## Redirect Information
+#👋 If you had used and liked the page so far.. 🤤
+#🤝 Then make a contribution to this and support the webpage via KoFi! 💚
 
-This repository now serves as a redirect-only site that automatically forwards visitors to the new location using:
-
-- **Meta refresh redirect** (immediate)
-- **JavaScript redirect** (fallback)
-- **Manual link** (if redirects fail)
-
-## For Developers
-
-If you need to work on the Legacy Trails project:
-
-1. Go to the main **webmaps** repository
-2. Navigate to the `legacy_trails/` subfolder
-3. All original files and functionality are preserved there
-
-## Trail Data
-
-All trail data, maps, and features remain unchanged:
-- ✅ Trail mapping functionality
-- ✅ Elevation profiles
-- ✅ GPX/KML export
-- ✅ All trail classifications and ratings
+<a href="https://ko-fi.com/tiroltrailhead" target="_blank"><img src="support_me_on_kofi_beige.png" alt="Support" width="250" height="auto"></a>
 
 ---
 
