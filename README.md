@@ -1,11 +1,9 @@
-# ⚠️⚠️ Legacy Trails - Repository Moved ⚠️⚠️
-
-## This repository has been moved!
+# ⚠️ Legacy Trails - Repository Moved
 
 # The Legacy Trails project has been integrated into my main **webmaps** repository!
 
-**📂 New place at:** https://tiroltrailhead.com/webmaps.html with other web maps 👋  
-**🌐 New URL:** https://tiroltrailhead.com/webmaps/legacy_trails/
+**📂 New place at:** [https://tiroltrailhead.com/webmaps.html] alongside with other web maps 👋  
+**🌐 New URL:** [https://tiroltrailhead.com/webmaps/legacy_trails/]
 
 ## What happened?
 
@@ -13,12 +11,10 @@
 - The old URL `tiroltrailhead.com/legacy_trails` now redirects to here
 - All trail data and functionality remains the same, just in a new location 😘
 
-<a href="https://ko-fi.com/tiroltrailhead" target="_blank"><img src="support_me_on_kofi_beige.png" alt="Support" width="250" height="auto"></a>
-
-## 👋 Hey, if you had used and liked the page so far.. 🤤
+## 👋 Hey, if you've been using and liked the page so far.. 🤤
 ## 🤝 Then make a contribution to this and support the webpage via KoFi! 💚
 
----
+<a href="https://ko-fi.com/tiroltrailhead" target="_blank"><img src="support_me_on_kofi_beige.png" alt="Support" width="250" height="auto"></a>
 
 *This redirect will remain active to ensure existing bookmarks and links continue to work.*
 
