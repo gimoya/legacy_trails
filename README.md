@@ -1,6 +1,6 @@
-# ⚠️ Legacy Trails - Repository Moved
+# 🔧 Legacy Trails - Repository Moved
 
-# The Legacy Trails project has been integrated into my main **webmaps** repository!
+# ⚠️ The Legacy Trails project has been integrated into my main **webmaps** repository!
 
 **📂 New place at:** [https://tiroltrailhead.com/webmaps.html](https://tiroltrailhead.com/webmaps.html) alongside with other web maps 👋  
 **🌐 New URL:** [https://tiroltrailhead.com/webmaps/legacy_trails/](https://tiroltrailhead.com/webmaps/legacy_trails/)
