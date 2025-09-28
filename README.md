@@ -2,12 +2,12 @@
 
 # The Legacy Trails project has been integrated into my main **webmaps** repository!
 
-**📂 New place at:** [https://tiroltrailhead.com/webmaps.html] alongside with other web maps 👋  
-**🌐 New URL:** [https://tiroltrailhead.com/webmaps/legacy_trails/]
+**📂 New place at:** [https://tiroltrailhead.com/webmaps.html](https://tiroltrailhead.com/webmaps.html) alongside with other web maps 👋  
+**🌐 New URL:** [https://tiroltrailhead.com/webmaps/legacy_trails/](https://tiroltrailhead.com/webmaps/legacy_trails/)
 
 ## What happened?
 
-- This repository (`legacy_trails`) has been moved as a subfolder into my `webmaps` repository
+- This repository - `legacy_trails` -has been moved as a subfolder into my `webmaps` repository
 - The old URL `tiroltrailhead.com/legacy_trails` now redirects to here
 - All trail data and functionality remains the same, just in a new location 😘
 
